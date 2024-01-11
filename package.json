@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "unplugin-vue-components": "^0.26.0",
     "vue": "^3.3.11"
   },
   "devDependencies": {
